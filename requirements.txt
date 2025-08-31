@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pandas
+numpy
+yfinance
+pyotp
+requests
+python-dotenv
+binance
