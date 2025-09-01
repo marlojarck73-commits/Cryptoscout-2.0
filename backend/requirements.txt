@@ -1,13 +1,1 @@
-fastapi==0.111.1
-uvicorn==0.24.0
-Flask==2.3.2
-plotly==5.16.0
-pandas==2.1.0
-numpy==1.26.2
-yfinance==0.2.27
-pyotp==2.8.0
-requests==2.31.0
-python-dotenv==1.0.0
-binance==1.0.17
-aiohttp==3.8.5
-cryptography==41.0.2
+
